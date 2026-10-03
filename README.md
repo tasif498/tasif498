@@ -1,33 +1,22 @@
-# Hi, I'm Talha
+# Muhammad Talha Asif
 
-Backend and AI engineer. I build production data systems in Python with LLMs at their core.
+**Backend and AI Engineer** · Remote · UTC+5
 
-## What I work on
+I build backend systems and AI agents that turn unstructured, constantly changing data into reliable, automated products.
+My focus is running LLMs in production with the accuracy, cost and latency that real businesses depend on.
 
-- **Data acquisition at scale.** At CountyData I built the company's data acquisition fleet from scratch:
-  135+ production pipelines across 20+ US states on AWS ECS Fargate, feeding a FastAPI and MongoDB platform
-  that qualifies, dedupes and delivers leads to client CRMs.
-- **AI agents.** A multi agent scraper builder on the OpenAI Agents SDK: a browser agent explores a site,
-  hands off to an agent that maps its network requests, and a code generation agent writes the scraper.
-- **LLMs in production.** Structured extraction from scanned documents with Gemini, and an evaluation driven
-  model migration that cut LLM cost 72% and made extraction nearly 6x faster.
-- **Healthcare AI.** At Farz AI, an AI clinical scribe with notes in 8 clinical formats, automated ICD-10, CPT
-  and SNOMED coding, and write back into athenahealth and Oracle Cerner through SMART on FHIR. Local LLMs
-  with Ollama where patient data had to stay on premises, plus RAG assistants on Azure OpenAI.
-- **Cost and reliability.** Cut monthly AWS spend about 60% in a year, and run a daily QC suite across every
-  source to catch site changes and data drift early.
+### Focus
+- AI agents that build and maintain data pipelines, on a 135+ source data platform I built from scratch
+- LLMs in production: structured extraction, evaluation, cost and latency optimization
+- Healthcare AI: clinical documentation, medical coding, FHIR and EHR integration
 
-## Stack
+### Stack
+| Area | Tools |
+|------|-------|
+| Backend | Python, FastAPI, Django, PostgreSQL, MongoDB, Redis |
+| AI | LLMs, AI agents (OpenAI Agents SDK), RAG, Gemini, Azure OpenAI, OpenRouter, Ollama |
+| Cloud and data | AWS (ECS Fargate, App Runner, S3), Azure, Docker, GitHub Actions, Playwright, Selenium |
+| Healthcare | FHIR, athenahealth, Oracle Cerner |
 
-`Python` `FastAPI` `Django` `PostgreSQL` `MongoDB` `Redis` `AWS (ECS Fargate, App Runner, S3)` `Azure`
-`Docker` `Gemini` `Azure OpenAI` `OpenRouter` `Ollama` `RAG` `OpenAI Agents SDK` `Playwright` `FHIR`
-
-## Background
-
-- BS Computer Science, FAST NUCES, and former AI Lab teaching assistant
-- 5 years of freelance Python work before going full time
-- Most of my work lives in private company repos
-
-## Reach me
-
-tasif498@gmail.com | [LinkedIn](https://www.linkedin.com/in/tasif498/)
+### Contact
+[LinkedIn](https://www.linkedin.com/in/tasif498/) · tasif498@gmail.com
